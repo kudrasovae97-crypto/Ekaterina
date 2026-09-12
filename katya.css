@@ -109,7 +109,7 @@ a:hover {
       
 @media (max-width: 767px) {
   .flat-page .content .container {
-    gap: 12;
+    gap: 0;
     min-height: calc(100vh - 101px);
     justify-content: center;
     flex-direction: column-reverse;
