@@ -97,7 +97,7 @@ a:hover {
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: green;
+  background-color: beige;
 }
 .flat-page .content .container {
   display: flex;
@@ -109,7 +109,7 @@ a:hover {
       
 @media (max-width: 767px) {
   .flat-page .content .container {
-    gap: 0;
+    gap: 12;
     min-height: calc(100vh - 101px);
     justify-content: center;
     flex-direction: column-reverse;
@@ -127,7 +127,7 @@ a:hover {
   font-size: 38px;
 }
 .flat-page .content .info button {
-  border: 14;
+  border: 10;
   border-radius: 20px;
   padding: 12px 30px;
   margin-top: 30px;
